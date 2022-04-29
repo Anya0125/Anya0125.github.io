@@ -1,9 +1,12 @@
-### Shing shing shing with Xiao
-![image](![image](https://user-images.githubusercontent.com/102717567/165926358-ce3f7827-5a06-4072-9deb-2bd09eeba3b1.png))
+character build analysis by an ar 58 player
 
+How to build the vigilant yaksha: Xiao
 ---
-Genshin Impact
-Character build analysis by an AR 58 player.
+![Screenshot (799)](https://user-images.githubusercontent.com/102717567/165928927-2a1f3917-2d8f-45fb-82c8-0dddc35219bd.png)
+
+
+
+
 ##Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
