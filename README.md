@@ -1,4 +1,7 @@
 ### Shing shing shing with Xiao
+![image](![image](https://user-images.githubusercontent.com/102717567/165926358-ce3f7827-5a06-4072-9deb-2bd09eeba3b1.png))
+
+---
 Genshin Impact
 Character build analysis by an AR 58 player.
 ##Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
