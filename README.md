@@ -1,40 +1,16 @@
 <3
 
-Anya's Safe Space 
----
-![photo-1617972882594-b1b094574749](https://user-images.githubusercontent.com/102717567/167809527-6cba1550-04c3-4ac2-86b8-d93eefe6ecc6.jpg)
+## Anya's Art Gallery
+
+Compilation of art I have made this year.
+
+![1Screenshot 2022-05-11 165608](https://user-images.githubusercontent.com/102717567/167811269-14abb577-a238-48be-9b97-456476471e6a.png)
+___
+
+![Screenshot 2022-05-04 212312](https://user-images.githubusercontent.com/102717567/167814889-cba302b3-76df-4b6f-92ca-b9f0bd903607.png)
+
+![Screenshot 2022-05-04 212102](https://user-images.githubusercontent.com/102717567/167814928-321184b0-37c1-4f9f-9705-d69a6d12415a.png)
+
+![image](https://user-images.githubusercontent.com/102717567/167815650-52572beb-0ba8-40da-99bd-621b8d292915.png)
 
 
-Compilation of things I enjoy and take interests in.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anya0125/anya0125.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
